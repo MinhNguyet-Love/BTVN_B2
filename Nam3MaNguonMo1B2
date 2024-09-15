@@ -1,0 +1,96 @@
+{
+  "OSType": "Windows_NT",
+  "Platform": "win32",
+  "RAM": 16958164992,
+  "USEDRAM": 7684182016,
+  "CPU": [
+    {
+      "model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+      "speed": 1896,
+      "times": {
+        "user": 1879578,
+        "nice": 0,
+        "sys": 2268062,
+        "idle": 30251515,
+        "irq": 149031
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+      "speed": 1896,
+      "times": {
+        "user": 1407484,
+        "nice": 0,
+        "sys": 732796,
+        "idle": 32258765,
+        "irq": 19453
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+      "speed": 1896,
+      "times": {
+        "user": 2208125,
+        "nice": 0,
+        "sys": 1370046,
+        "idle": 30820843,
+        "irq": 29750
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+      "speed": 1896,
+      "times": {
+        "user": 1686906,
+        "nice": 0,
+        "sys": 908609,
+        "idle": 31803546,
+        "irq": 17531
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+      "speed": 1896,
+      "times": {
+        "user": 1814281,
+        "nice": 0,
+        "sys": 1120265,
+        "idle": 31464515,
+        "irq": 32437
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+      "speed": 1896,
+      "times": {
+        "user": 1304671,
+        "nice": 0,
+        "sys": 743812,
+        "idle": 32350562,
+        "irq": 18296
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+      "speed": 1896,
+      "times": {
+        "user": 1676531,
+        "nice": 0,
+        "sys": 1038359,
+        "idle": 31684140,
+        "irq": 24296
+      }
+    },
+    {
+      "model": "Intel(R) Core(TM) i5-8350U CPU @ 1.70GHz",
+      "speed": 1896,
+      "times": {
+        "user": 1576187,
+        "nice": 0,
+        "sys": 707859,
+        "idle": 32115015,
+        "irq": 14625
+      }
+    }
+  ]
+}
